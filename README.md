@@ -1,5 +1,5 @@
 # Note_Taker
-Table of Contents
+https://img.shields.io/badge/license-MIT-blue Table of Contents
 - Description
 - Installation
 - Usage
@@ -20,8 +20,9 @@ Homework
 ## Contribution:
 N/A
 
-## License:
-MIT
+## License & copyright:
+Copyright © 2022 <Jing Li>. 
+Licensed under the [MIT License] (License).
 
 ## Questions:
 
