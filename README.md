@@ -1,15 +1,14 @@
 # Note_Taker
-https://img.shields.io/badge/license-MIT-blue Table of Contents
+## Table of Contents
 - Description
 - Installation
 - Usage
-- License
-- Contributing
-- Test
-- questions
+- Contribution
+- License & Copyright
+- Questions
 
 ## Description:
-Your task is to build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
+This is a Note Taker Application that runs in the brower. This application will use an Express.js back end and will save and retrieve note data from a JSON file. You are able to write and save notes to organize your thoughts and keep track of tasks need to be completed.
 
 ## Installation:
 N/A
@@ -18,13 +17,13 @@ N/A
 Homework
 
 ## Contribution:
-N/A
+Use Expess.js
 
-## License & copyright:
+## License & Copyright:
 Copyright © 2022 <Jing Li>. 
-Licensed under the [MIT License] (License).
+Licensed under the [MIT License](LICENSE).
 
 ## Questions:
 
-GitHub: https://github.com/Jean424?tab=repositories
-Email: jeanlee.jingli@icloud.com
+- GitHub: https://github.com/Jean424?tab=repositories
+- Email: jeanlee.jingli@icloud.com
