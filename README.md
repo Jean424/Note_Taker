@@ -13,8 +13,11 @@ This is a Note Taker Application that runs in the brower. This application will 
 ## Installation:
 Express.js
 
-## Usage:
-Homework
+## Usage(How to use):
+WHEN you click on the link to the notes page, Then a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column;
+WHEN you enter a new note title and the note’s text, Then save icon appears in the navigation at the top of the page;
+WHEN you click on the Save icon, THEN the new note you have entered is saved and appears in the left-hand column with the other existing notes
+WHEN you click on an existing note in the list in the left-hand column, THEN that note appears in the right-hand column;
 
 ## Contribution:
 Use Expess.js
